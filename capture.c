@@ -1,4 +1,8 @@
 /*
+Modified by Matt Venn for Arcola Energy 2016
+
+Based on Prudaq: https://github.com/google/prudaq	
+
 Copyright 2015 Google Inc. All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
