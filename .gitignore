@@ -1,0 +1,5 @@
+capture
+*.dtbo
+*.o
+*.bin
+
